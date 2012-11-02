@@ -1,0 +1,79 @@
+Body {
+	font-family: 'Lekton', sans-serif;
+	color: white;
+/*	background-image: url("https://dl.dropbox.com/u/106649/concrete_wall/concrete_wall.png");*/
+	background-image: url("https://dl.dropbox.com/u/106649/cartographer/cartographer.png");
+	text-align: center;
+	}
+
+h1 {
+	padding-right: 0px;
+	text-align: center;
+}
+
+ol {
+	list-style: none;
+}
+
+a {
+	color: #99CC00;
+}
+
+a:hover {
+	color: #30ACFF;
+}
+
+a:visited {
+	color: #99CC00;
+}
+
+.post{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 70px;
+	width: 70%;
+}
+
+#header h1 {
+	background-color: #080808;
+	margin-left: -7px;
+	margin-right: -7px;
+	font-family: 'Magra', sans-serif;
+	color: #30ACFF;
+	font-size: 125px;
+	opacity: 0.6;
+}
+
+#footer {
+	background-color: #080808;
+	opacity: 0.6;
+	font-family: 'Abel', sans-serif;
+	font-size: 50px;
+	margin-left: -7px;
+	margin-right: -7px;
+	margin-bottom: -7px;
+}
+
+#footer a {
+	color: #30ACFF;
+}
+
+#footer a:hover {
+	color: #99CC00;
+}
+
+#footer a:visited {
+	color: #30ACFF;
+}
+
+#credit a {
+	color: #99CC00;
+}
+
+#credit a:hover {
+	color: #30ACFF;
+}
+
+#credit a:visited {
+	color: #99CC00;
+}
